@@ -10,4 +10,4 @@ Then ZSH will be used as the default terminal and starship will be installed and
 
 The starship website can be found here : https://starship.rs if you want to add any other modules to your configuration file. 
 
-You will have to reboot your system at the end of the installation. 
+The script will ask you if you want to reboot your system now or later. I recommend you to reboot as soon as possible.  
