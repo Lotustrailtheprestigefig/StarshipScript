@@ -323,7 +323,7 @@ source ~/.zshrc
 
  # Tell the uer that the script is finished and then will ask the user to reboot the system 
 echo "Installation complete..."
-echo "You must reboot your system in order to 
+echo "You must reboot your system as soon as possible.
 
 
 sleep 3
