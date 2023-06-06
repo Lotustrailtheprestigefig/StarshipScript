@@ -32,12 +32,13 @@ apt install git -y
 echo "Git installed."
 
 # Installing the font
-echo "Installing nerd-fonts..."
-git clone https://github.com/ryanoasis/nerd-fonts.git
-cd nerd-fonts
-./install ComicShannsMono
-cd ..
-echo "nerd-fonts installed."
+# Not usefull at the moment. You can remove the comments if you want to install a nerd font. 
+#echo "Installing nerd-fonts..."
+#git clone https://github.com/ryanoasis/nerd-fonts.git
+#cd nerd-fonts
+#./install ComicShannsMono
+#cd ..
+#echo "nerd-fonts installed."
 
 # Install Starship
 echo "Installing Starship..."
