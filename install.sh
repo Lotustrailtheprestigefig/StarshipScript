@@ -314,14 +314,21 @@ if [[ "$(uname -r)" == *Microsoft ]]; then
 
     alias code='code.cmd'
 fi
+EOF
 echo "wsl2fix.zsh file created."
 
 # Source the ~/.zshrc file
 echo "Sourcing the ~/.zshrc file..."
 source ~/.zshrc
+echo "Installation complete."
+sleep 2
 
- # Tell the uer that the script is finished and then will ask the user to reboot the system 
-echo "Installation complete..."
-echo "You must reboot your system as soon as possible.
-sleep 3
-EOF
+# Ask if the user wants to reboot
+read -p "Installation complete. Do you want to reboot the system now? [y/n]: " reboot_choice
+
+if [[ $reboot_choice == "y" || $reboot_choice == "Y" ]]; then
+    echo "Rebooting the system..."
+    sudo reboot
+else
+    echo "Installation complete. Please reboot the system to apply the changes."
+fi
