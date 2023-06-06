@@ -314,7 +314,6 @@ if [[ "$(uname -r)" == *Microsoft ]]; then
 
     alias code='code.cmd'
 fi
-EOF
 echo "wsl2fix.zsh file created."
 
 # Source the ~/.zshrc file
@@ -325,4 +324,4 @@ source ~/.zshrc
 echo "Installation complete..."
 echo "You must reboot your system as soon as possible.
 sleep 3
-
+EOF
