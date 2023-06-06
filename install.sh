@@ -10,7 +10,7 @@ read -p "Do you want to install the next generation terminal? [y/n]: " install_t
 
 if [[ $install_terminal == "y" || $install_terminal == "Y" ]]; then
     echo "Installing ZSH..."
-    sudo apt install zsh
+    sudo apt install zsh -y
     echo "ZSH installed."
 
     echo "Changing the default shell to ZSH..."
