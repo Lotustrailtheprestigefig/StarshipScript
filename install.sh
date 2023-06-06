@@ -320,11 +320,11 @@ echo "wsl2fix.zsh file created."
 # Source the ~/.zshrc file
 echo "Sourcing the ~/.zshrc file..."
 source ~/.zshrc
-echo "Installation complete."
+
+ # Tell the uer that the script is finished and then will ask the user to reboot the system 
+echo "Installation complete..."
+echo "You must reboot your system in order to 
+
+
 sleep 3
 
- # Perform a reboot to apply the shell change
-echo "Rebooting the system..."
-sleep 3
-reboot
-exit
