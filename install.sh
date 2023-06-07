@@ -31,14 +31,17 @@ echo "Installing Git..."
 apt install git -y
 echo "Git installed."
 
-# Installing the font
-# Not usefull at the moment. You can remove the comments if you want to install a nerd font. 
-#echo "Installing nerd-fonts..."
-#git clone https://github.com/ryanoasis/nerd-fonts.git
-#cd nerd-fonts
-#./install ComicShannsMono
-#cd ..
-#echo "nerd-fonts installed."
+# Ask if the user wants to install the Nerd Font
+read -p "Do you want to install the Nerd Font? [y/n]: " install_nerd_font
+
+if [[ $install_nerd_font == "y" || $install_nerd_font == "Y" ]]; then
+    echo "Installing Nerd Font..."
+    git clone https://github.com/ryanoasis/nerd-fonts.git
+    cd nerd-fonts
+    ./install ComicShannsMono
+    cd ..
+    echo "Nerd Font installed."
+fi
 
 # Install Starship
 echo "Installing Starship..."
