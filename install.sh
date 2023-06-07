@@ -2,7 +2,7 @@
 
 # Update the system
 echo "Updating the system..."
-apt update && apt upgrade -y
+apt update
 echo "System update complete."
 
 # Ask if the user wants to install the "next generation terminal"
