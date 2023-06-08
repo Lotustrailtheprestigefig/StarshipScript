@@ -19,9 +19,6 @@ if [[ $install_terminal == "y" || $install_terminal == "Y" ]]; then
 fi
 
 # Continue with the remaining installation steps
-echo "Installing ZSH..."
-sudo apt install zsh
-echo "ZSH installed."
 
 echo "Installing exa..."
 apt install exa
@@ -173,7 +170,7 @@ cat <<'EOF' >> /etc/zsh/zshrc
 [[ -f ~/.zsh/starship.zsh ]] && source ~/.zsh/starship.zsh
 [[ -f ~/.zsh/nvm.zsh ]] && source ~/.zsh/nvm.zsh
 [[ -f ~/.zsh/wsl2fix.zsh ]] && source ~/.zsh/wsl2fix.zsh
-#[[ -f ~/.zsh/goto.zsh ]] && source ~/.zsh/goto.zsh
+[[ -f ~/.zsh/goto.zsh ]] && source ~/.zsh/goto.zsh
 # Load Direnv
 #eval "$(direnv hook zsh)"
 eval "$(starship init zsh)"
