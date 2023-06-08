@@ -19,9 +19,8 @@ if [[ $install_terminal == "y" || $install_terminal == "Y" ]]; then
 fi
 
 # Continue with the remaining installation steps
-
 echo "Installing exa..."
-apt install exa
+apt install exa -y
 echo "exa installed."
 
 echo "Installing Git..."
