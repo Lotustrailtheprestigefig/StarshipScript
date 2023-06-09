@@ -270,7 +270,7 @@ fi
 case $_distro in
     *kali*)                  ICON="ﴣ";;
     *arch*)                  ICON="";;
-    *debian*)                ICON="";;
+    *debian*)                ICON="";;
     *raspbian*)              ICON="";;
     *ubuntu*)                ICON="";;
     *elementary*)            ICON="";;
