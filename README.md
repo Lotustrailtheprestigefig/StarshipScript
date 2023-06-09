@@ -17,5 +17,10 @@ The script will ask you if you want to reboot your system now or later. I recomm
 
 Here is an overview of what your terminal will look like. 
 
+Ubuntu :
 <img width="1335" alt="Screenshot 2023-06-09 at 20 47 54" src="https://github.com/NeevChandiramani/StarshipScript/assets/102186419/bb6ae732-1a0a-4c75-9294-369f8bf1e71c">
 
+Debian :
+
+
+<img width="1575" alt="Screenshot 2023-06-09 at 20 53 38" src="https://github.com/NeevChandiramani/StarshipScript/assets/102186419/f1dbde7b-9a4e-4265-a598-19118a933889">
