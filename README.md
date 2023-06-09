@@ -1,5 +1,5 @@
 # StarshipScript
-Shell Script to install starship with configuration files on a linux distro.
+Simple Script to install starship with configuration files on a linux distro.
 
 
 A standard shell script that will transform your original terminal into a new terminal with some nice icons. 
