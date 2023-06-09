@@ -8,7 +8,8 @@ You must be logged in as a root user.
 First you must clone the repo and then execute the install.sh file. 
 This script will update and upgrade your OS. 
 If you want to install the nerd font (I use ComicShannsMono) you can do it easily with the script, you will have a prompt asking if you want to. If you connect to your server with ssh a nerd font should be installed on the computer you're connecting with. 
-Then ZSH will be used as the default terminal and starship will be installed and configured. I invite you to check the script by yourself to understand any further. 
+Then ZSH will be used as the default terminal and starship will be installed and configured.
+I invite you to check the script by yourself to understand any further. 
 
 The starship website can be found here : https://starship.rs if you want to add any other modules to your configuration file. 
 The Nerd Fonts website can be found here : https://www.nerdfonts.com/ if you want to change the font you want to install you can edit the script. 
