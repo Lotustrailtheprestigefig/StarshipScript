@@ -271,9 +271,9 @@ case $_distro in
     *kali*)                  ICON="ﴣ";;
     *arch*)                  ICON="";;
     *debian*)                ICON="";;
-    *raspbian*)              ICON="";;
+    *raspbian*)              ICON="";;
     *ubuntu*)                ICON="";;
-    *elementary*)            ICON="";;
+    *elementary*)            ICON="";;
     *fedora*)                ICON="";;
     *coreos*)                ICON="";;
     *gentoo*)                ICON="";;
