@@ -14,3 +14,6 @@ The starship website can be found here : https://starship.rs if you want to add 
 The Nerd Fonts website can be found here : https://www.nerdfonts.com/ if you want to change the font you want to install you can edit the script. 
 
 The script will ask you if you want to reboot your system now or later. I recommend you to reboot as soon as possible.  
+
+
+<img width="1335" alt="Screenshot 2023-06-09 at 20 47 54" src="https://github.com/NeevChandiramani/StarshipScript/assets/102186419/bb6ae732-1a0a-4c75-9294-369f8bf1e71c">
