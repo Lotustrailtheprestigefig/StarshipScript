@@ -2,7 +2,7 @@
 Starship Script to install starship with configuration files on a linux distro.
 
 
-A standard shell script that will transform your original terminal into a new terminal with some nice icons. 
+A standard script that will transform your original terminal into a new terminal with some nice icons. 
 
 You must be logged in as a root user. 
 First you must clone the repo and then execute the install.sh file. 
@@ -15,5 +15,7 @@ The Nerd Fonts website can be found here : https://www.nerdfonts.com/ if you wan
 
 The script will ask you if you want to reboot your system now or later. I recommend you to reboot as soon as possible.  
 
+Here is an overview of what your terminal will look like. 
 
 <img width="1335" alt="Screenshot 2023-06-09 at 20 47 54" src="https://github.com/NeevChandiramani/StarshipScript/assets/102186419/bb6ae732-1a0a-4c75-9294-369f8bf1e71c">
+
