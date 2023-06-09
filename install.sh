@@ -270,10 +270,10 @@ fi
 case $_distro in
     *kali*)                  ICON="ﴣ";;
     *arch*)                  ICON="";;
-    *debian*)                ICON="";;
-    *raspbian*)              ICON="";;
+    *debian*)                ICON="";;
+    *raspbian*)              ICON="";;
     *ubuntu*)                ICON="";;
-    *elementary*)            ICON="";;
+    *elementary*)            ICON="";;
     *fedora*)                ICON="";;
     *coreos*)                ICON="";;
     *gentoo*)                ICON="";;
@@ -288,12 +288,8 @@ case $_distro in
     *nixos*)                 ICON="";;
     *devuan*)                ICON="";;
     *manjaro*)               ICON="";;
-    *gentoo*)                ICON="";;
-    *void*)                  ICON="";;
-    *freebsd*)               ICON="";;
-    *macos*)                 ICON="";;
-    *ios*)                   ICON="";;
-    *fedora*)                ICON="";;
+    *rhel*)                  ICON="";;
+    *macos*)                 ICON="";;
     *)                       ICON="";;
 esac
 
