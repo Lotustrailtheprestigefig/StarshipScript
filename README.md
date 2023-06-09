@@ -12,7 +12,7 @@ Then ZSH will be used as the default terminal and starship will be installed and
 I invite you to check the script by yourself to understand any further. 
 
 The starship website can be found here : https://starship.rs if you want to add any other modules to your configuration file. 
-The Nerd Fonts website can be found here : https://www.nerdfonts.com/ if you want to change the font you want to install you can edit the script. Some icons can also be found there if you want to modify the icons I put there. 
+The Nerd Fonts website can be found here : https://www.nerdfonts.com/ or here https://github.com/ryanoasis/nerd-fonts if you want to change the font you want to install you can edit the script. Some icons can also be found there if you want to modify the icons I put there. 
 
 The script will ask you if you want to reboot your system now or later. I recommend you to reboot as soon as possible.
 
