@@ -263,6 +263,8 @@ elif [[ -f $MFILE ]]; then
     *mini*)        DEVICE="󰇄";;
     *)             DEVICE="";;
   esac
+else
+  _distro=$( uname -v | tr '[:upper:]' '[:lower:]')
 fi
 
 # set an icon based on the distro
