@@ -318,7 +318,7 @@ echo "wsl2fix.zsh file created."
 
 # Source the ~/.zshrc file
 echo "Sourcing the ~/.zshrc file..."
-source ~/.zshrc
+source /etc/zsh/zshrc
 echo "Installation complete."
 sleep 2
 
