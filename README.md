@@ -28,4 +28,6 @@ Debian :
 
 <img width="1575" alt="Screenshot 2023-06-09 at 20 53 38" src="https://github.com/NeevChandiramani/StarshipScript/assets/102186419/f1dbde7b-9a4e-4265-a598-19118a933889">
 
+
+
 The terminal used is warp with a special theme that you can find here : https://github.com/ChristianLempa/dotfiles/blob/main/.warp/themes/xcad2k_dark.yml.
