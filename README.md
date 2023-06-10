@@ -16,6 +16,7 @@ The Nerd Fonts website can be found here : https://www.nerdfonts.com/ or here ht
 
 The script will ask you if you want to reboot your system now or later. I recommend you to reboot as soon as possible.
 
+Please note that this script will only work for linux operating systems.
 I always do my best to keep my repos updated but if you see an error in the script you can contact me. 
 Credits to christan lempa who initially did the config files. I modified almost all of theses files and then created a script in order to automate the installation.
 
