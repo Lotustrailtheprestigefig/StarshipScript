@@ -32,3 +32,31 @@ Debian :
 
 
 The terminal used is warp with a special theme that you can find here : https://github.com/ChristianLempa/dotfiles/blob/main/.warp/themes/xcad2k_dark.yml.
+
+
+
+
+
+On iterm2 it will look like this : 
+
+<img width="946" alt="Screenshot 2023-06-24 at 21 54 04" src="https://github.com/NeevChandiramani/StarshipScript/assets/102186419/40f3b2e3-1643-402e-8e36-e4c835634f4b">
+
+
+
+
+
+
+<img width="967" alt="Screenshot 2023-06-24 at 21 56 41" src="https://github.com/NeevChandiramani/StarshipScript/assets/102186419/dfe62f77-4255-4d18-a900-a696ffa28b72">
+
+
+I use this theme for Iterm2 : https://github.com/sindresorhus/iterm2-snazzy. 
+
+
+
+
+
+If you have any further question please don't hesitate contacting me via my portfolio website https://neevchandiramani.com.
+
+
+
+
