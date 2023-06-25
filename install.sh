@@ -92,7 +92,7 @@ read_only = "  "
 format = "at [\$path](\$style)[\$read_only](\$read_only_style) "
 
 [git_branch]
-symbol = " "
+symbol = " "
 format = "via [\$symbol\$branch](\$style) "
 truncation_symbol = "…/"
 style = "bold green"
@@ -106,7 +106,7 @@ untracked = " "
 ahead = "⇡\${count}"
 diverged = "⇕⇡\${ahead_count}⇣\${behind_count}"
 behind = "⇣\${count}"
-stashed = " "
+stashed = " "
 modified = " "
 staged = '[++\(\$count\)](green)'
 renamed = "襁 "
