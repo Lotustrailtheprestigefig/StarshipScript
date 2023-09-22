@@ -151,11 +151,6 @@ threshold = -1
 symbol = ' '
 style = 'bold dimmed green'
 
-[time]
-disabled = false
-format = '🕙[\[ \$time \]](\$style) '
-time_format = '%T'
-utc_time_offset = '+2'
 EOF
 echo "starship.toml configuration file created."
 
