@@ -313,7 +313,6 @@ echo "wsl2fix.zsh file created."
 echo "Sourcing the ~/.zshrc file..."
 source /etc/zsh/zshrc
 echo "Installation complete."
-sleep 2
 
 # Ask if the user wants to reboot
 read -p "Installation complete. Do you want to reboot the system now? [y/n]: " reboot_choice
