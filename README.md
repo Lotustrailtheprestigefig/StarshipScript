@@ -13,7 +13,7 @@ This script will update and upgrade your OS.
 
 ## Nerd Font
 
-If you want to install the nerd font (ComicShannsMono is used here), you can do it easily with the script. You will be prompted to install it. If you connect to your server with ssh, a nerd font should be installed on the computer you're connecting with. 
+If you want to install the nerd font (ComicShannsMono is used here), you can do it easily with the script. You will be prompted to install it. If you connect to your server with ssh, a nerd font should be installed on the computer you're connecting with, no need to install it on the server.
 
 ## Terminal and Starship
 
